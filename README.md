@@ -1,2 +1,2 @@
 # Blog
-Front-End Web Design
+Static / Front-End Webpage + Design output
